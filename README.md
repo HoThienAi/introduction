@@ -1,6 +1,6 @@
 <p align="center">
   <a href="." title="Sigma eLabs">
-    <img src="/assests/images/SigmaeLabsBannerv2.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
+    <img src="/assests/SigmaeLabsBannerv2.png" title="Sigma eLabs" style="width: 100vw; min-width: 200px"/>
   </a>
 </p>
 
