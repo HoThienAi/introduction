@@ -16,7 +16,7 @@ Mình tên là Hồ Thiện Ái - author của [Sigma eLabs](https://github.com/
 </p>
 
 # Blogs
-Chỗ [Blogs](https://github.com/Sigma-eLabs/blogs) này mình dùng để viết lách. Lâu lâu mình cũng thích ghi chú lại những ý nghĩ về cuộc sống khi có tâm trạng.
+Chỗ [Blogs](https://github.com/Sigma-eLabs/blogs) này mình dùng để viết lách vì đôi lúc mình cũng muốn ghi là những suy ngẫm về cuộc sống.
 <p align="center">
   <a href="." title="Blogs">
     <img src="/assests//Blogs.png" title="Blogs" style="width: 100vw; min-width: 200px"/>
